@@ -5,6 +5,9 @@ Portage du jeu Unity **« Rider Game »** (Brackeys) en application native
 
 Fichier à installer : **`Rider.nwa`** (≈ 440 Ko une fois installé, limite : 2 Mo).
 
+fait part cjnw (yamii) discord.gg/sti2d
+discord.gg/derim
+
 ## Installation
 
 1. Branche la calculatrice en USB.
